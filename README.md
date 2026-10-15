@@ -136,3 +136,6 @@ If you use this work, please cite it (see [`CITATION.cff`](CITATION.cff); GitHub
 Contributions, especially **field-test data**, are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md). Code is released under the [MIT License](LICENSE); the paper and documentation under CC BY 4.0 (see [LICENSE-DOCS.md](LICENSE-DOCS.md)).
 
 **Author:** Pradyumna Murlidhar Sonewane · Nagpur, Maharashtra, India
+=======
+ESP32-based IoT crop protection system: multi-sensor fusion (BMP280, DHT22, LDR, rain) triggers a solar-powered motorized canopy against unseasonal rain and hail. Includes research paper, reference firmware, tested trigger-logic simulation, BOM and docs. 
+>>>>>>> 14bc699ebd048d156264f6f673868331f3dde7b4
