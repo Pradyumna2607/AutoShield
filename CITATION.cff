@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "AutoShield: Smart Sensor-Triggered Motorized Canopy System for Crop Protection Against Unseasonal Rainfall and Hailstorm Events"
+authors:
+  - family-names: Sonewane
+    given-names: Pradyumna Murlidhar
+version: 1.0.0
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/AutoShield"
+keywords:
+  - IoT
+  - smart agriculture
+  - crop protection
+  - ESP32
+  - sensor fusion
+  - rainfall detection
+# If the paper has a DOI (e.g. on Zenodo), add it here:
+# doi: "10.xxxx/xxxxx"

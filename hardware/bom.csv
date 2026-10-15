@@ -1,0 +1,17 @@
+component,model,function,unit_cost_inr,source
+Microcontroller,ESP32 DevKit V1,"Central processing, WiFi, Bluetooth",300,paper
+Temperature & humidity sensor,DHT22,Ambient temperature and relative humidity,150,paper
+Barometric pressure sensor,BMP280,Atmospheric pressure monitoring,120,paper
+Rain sensor,FC-37,Direct rainfall confirmation,80,paper
+Light sensor,LDR module,Cloud cover / sky darkening detection,40,paper
+Motor driver,L298N / BTS7960,DC motor control for canopy,120-350,paper
+DC motor,12V wiper motor,High-torque canopy deployment,400-800,paper
+Limit switches,KW12-3 (x2),Stop motor at open/closed positions,80,paper
+Solar panel,50W monocrystalline,Primary power generation,1800,paper
+Battery,12V 20Ah sealed lead-acid,Power storage and backup,1200,paper
+Charge controller,10A PWM controller,Solar charging management,400,paper
+Relay module,4-channel 5V relay,Motor and auxiliary switching,120,paper
+Enclosure,IP65 weatherproof box,Electronics protection,350,paper
+DC-DC step-down converter,12V to 5V (>=2A),Power ESP32 and sensors from the battery,,suggested addition (not costed in paper)
+Inline fuse + holder,10A-15A automotive blade,Protect battery/motor wiring,,suggested addition (not costed in paper)
+Flyback / TVS protection,1N5408 or SMBJ15A,Suppress motor switching transients,,suggested addition (not costed in paper)
